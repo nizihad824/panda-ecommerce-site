@@ -20,3 +20,7 @@
 .btn{
     background-image: linear-gradient(to right top, #ff4283, #ff3573, #fe2863, #fc1952, #f80740);
 }
+.catagoris img{
+    width: 100px;
+
+}
