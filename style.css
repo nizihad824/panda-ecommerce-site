@@ -2,9 +2,7 @@
     background-color:#FEEAE9;
 
 }
-#slides{
-    
-}
+
 #watch{
     background-image: linear-gradient(to right top, #ff9c35, #ffa92e, #ffb527, #ffc31f, #ffd019);
 }
@@ -19,6 +17,9 @@
 }
 .btn{
     background-image: linear-gradient(to right top, #ff4283, #ff3573, #fe2863, #fc1952, #f80740);
+    color: white;
+    border-radius: 5px;
+    border: none;
 }
 .catagoris img{
     width: 100px;
