@@ -1,0 +1,22 @@
+.flexible-color{
+    background-color:#FEEAE9;
+
+}
+#slides{
+    height: 500px;
+}
+#watch{
+    background-image: linear-gradient(to right top, #ff9c35, #ffa92e, #ffb527, #ffc31f, #ffd019);
+}
+#shoes{
+    background-image: linear-gradient(to right top, #ff589b, #ff4c91, #ff3e86, #ff2d7b, #ff136f); 
+}
+#bag{
+    background-image: linear-gradient(to right top, #4289ff, #2274ff, #0c5dff, #2240ff, #3f07f8);
+}
+#catagories{
+    height:200px ;
+}
+.btn{
+    background-image: linear-gradient(to right top, #ff4283, #ff3573, #fe2863, #fc1952, #f80740);
+}
